@@ -14,6 +14,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-`print("Hello")`
-
 > life is a fucking movie
